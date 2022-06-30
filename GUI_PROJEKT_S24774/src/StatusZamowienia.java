@@ -1,0 +1,3 @@
+public enum StatusZamowienia {
+    STACJONARNE, DOSTAWA, GOTOWE, PRZEDAWNIONE,DO_REALIZACJI
+}
